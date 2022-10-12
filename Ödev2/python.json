@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "edit_history_tweet_ids": [
+                "1580238492122361859"
+            ],
+            "id": "1580238492122361859",
+            "text": "RT @thefarooqii: #DataStructure #HeapSort \n#MachineLearning #DataScience #SQL #Cybersecurity #BigData #Analytics #AI #IIoT #Python #RStats…"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1580238488263225347"
+            ],
+            "id": "1580238488263225347",
+            "text": "RT @Eli_Krumova: 🤣 #MondayMotivation #mondaythoughts\nWhen you have to implement 🆕feature into legacy #code\n\nv/ @SourabhSKatoch\n#Developer #…"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1580238487131148288"
+            ],
+            "id": "1580238487131148288",
+            "text": "@opinonhaver There's nothing to learn. Python is English. You just learn how to use the various libraries on a per need basis."
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1580238485654765570"
+            ],
+            "id": "1580238485654765570",
+            "text": "How to monitor options trading using Python.\n\n#Python #Programming #Coding\n#ComputerScience #Algorithms \n#Statistics #probabilitytheory \n#Analytics #DataScience #MachineLearnin\n#networking #APIs \n👉🏻👉🏻👉🏻 https://t.co/97JJexml6c👌🏻"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1580238478935478273"
+            ],
+            "id": "1580238478935478273",
+            "text": "RT @Eli_Krumova: 🎯Skills of a Modern #DataScientist\n\n#STEM #DataScientists #DataScience #Analytics #BigData #AI #ML #MachineLearning #Pytho…"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1580238459226058753"
+            ],
+            "id": "1580238459226058753",
+            "text": "RT @clcoding: Dealing with Missing values in Python |  Day 13 https://t.co/fyPUM1WHVf https://t.co/TJdtdPAVHu"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1580238456298434565"
+            ],
+            "id": "1580238456298434565",
+            "text": "RT @Eli_Krumova: 🎯Skills of a Modern #DataScientist\n\n#STEM #DataScientists #DataScience #Analytics #BigData #AI #ML #MachineLearning #Pytho…"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1580238437868662795"
+            ],
+            "id": "1580238437868662795",
+            "text": "今日も引き続き並列化(  ˙꒳​˙  )\n\n今日はデーモン閣下みたいな「デーモンスレッド」、ハリポタのマルフォイみたいな「セマフォ」がでてきた(・ω・)\n\nその他LockやRLockなどいろいろあるのね。そして並列化の章は明日も続く。\n\n#今日の積み上げ\n■Python大全：P380-390\n・12章：並列化 (途中まで)"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1580238435255611400"
+            ],
+            "id": "1580238435255611400",
+            "text": "RT @entity_astro: Day 24:\n\nThings are much more exciting with external modules! \n\nI have arted.\n\n🎨🤖🚀\n\n#100DaysofCode #Python #TurboTeam htt…"
+        },
+        {
+            "edit_history_tweet_ids": [
+                "1580238432407678982"
+            ],
+            "id": "1580238432407678982",
+            "text": "RT @entity_astro: Day 24:\n\nThings are much more exciting with external modules! \n\nI have arted.\n\n🎨🤖🚀\n\n#100DaysofCode #Python #TurboTeam htt…"
+        }
+    ],
+    "meta": {
+        "newest_id": "1580238492122361859",
+        "oldest_id": "1580238432407678982",
+        "result_count": 10,
+        "next_token": "b26v89c19zqg8o3fpzejfusikqs5nmzystriv2esrryil"
+    }
+}
